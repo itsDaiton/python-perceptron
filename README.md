@@ -2,6 +2,11 @@
 
 Python skript na vytvoření neuronové sítě, konkrétně vícevrstvého perceptronu.
 
+**Ukázka výstupu programu:**
+
+![image](https://user-images.githubusercontent.com/72783924/222013476-57490318-5f67-49aa-9ad9-7132e071c233.png)
+
+
 ## Popis
 
 Jedná se o skript, který dokáže vytvořit vícevrstvý perceptron. Nejprve se načte úvodní dataset a rozdělí se na trénovací a testovací data. Poté je provedeno jednoduché předzpracování dat a vytvoří se samostatný model neuronové sítě. Následně se zvolí atributy sítě a podle nich se poté daný model implementuje a natrénuje se příslušnými daty. Na konec se vyhodnotí výsledek sítě a spočítá se úspěšnost klasifikace a ztrátová funkce a z daných výpočtů se vizualizuje graf.
